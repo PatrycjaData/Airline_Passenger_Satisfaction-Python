@@ -1,6 +1,6 @@
 **Created by: **Patrycja Decowska
 
-**Project name:** Airline Passenger Satisfaction
+**Project name: ** Airline Passenger Satisfaction
 
 **Data source: **The dataset was obtained from Kaggle
 
