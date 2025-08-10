@@ -1,8 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21705041/README.md)
----
-generator: Riched20 6.3.9600
----
-
 **Created by: **Patrycja Decowska
 
 **Project name:** Airline Passenger Satisfaction
