@@ -19,5 +19,5 @@ Afterwards, I used bar plot to to compare the satisfaction of both
 groups. The results indicate that more than half of both women and men
 are neutral or dissatisfied.
 
-Finally, descriptive statistics (using \`describe()\`) were used to
+Finally, I used descriptive statistics (\`describe()\`) to
 summarize all numeric columns in the dataset.
