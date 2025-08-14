@@ -1,23 +1,18 @@
-**Created by: **Patrycja Decowska
+# Airline Passenger Satisfaction
 
-**Project name: ** Airline Passenger Satisfaction
-
-**Data source: **The dataset was obtained from Kaggle
-
+## Created by Patrycja Decowska
+## Data source The dataset was obtained from Kaggle:
 <https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data>
 
-**Main Goal: **To analyze and visualize passenger satisfaction, focusing
-on gender differences.
+## Main Goal
+To analyze and visualize passenger satisfaction, focusing on gender differences.
 
-**Description: **I have filtered the data to to separate records by
-gender - female and male.
+## Description
+### Tools & libraries 
+Python , Jupyter Notebook
 
-Then I visualized the results using pie chart. Pie charts shows the
-percentage distribution of satisfaction between women and men.
+I have imported 'pandas' , 'numpy' and 'matplotlib' libraries and uploaded the dataset using 'pd.read_csv'. I explored basic information, checked structure and statistics. I have filtered the data to separate records by gender (female and male). Afterwards, I created bar charts to visualize the number of passengers per satisfaction category. Pie charts show the percentage distribution of satisfaction between women and men. Finally, I used bar plot to compare the satisfaction of both groups. 
 
-Afterwards, I used bar plot to to compare the satisfaction of both
-groups. The results indicate that more than half of both women and men
-are neutral or dissatisfied.
+## Results
+The results indicate that more than half of both women and men are neutral or dissatisfied.
 
-Finally, I used descriptive statistics (\`describe()\`) to
-summarize all numeric columns in the dataset.
